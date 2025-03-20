@@ -7,12 +7,12 @@
 
 📫 How to reach me:
 
-📍 Location: Vijayawada, India
-📧 Email: lpkumartumu@gmail.com
-🔗 LinkedIn: [Tumu Lakshman Prasanna Kumar](https://www.linkedin.com/in/tumu-lakshman-prasanna-kumar-a37561270)
-💻 GitHub: [lakshman200309](https://github.com/lakshman200309/lakshman200309)
-🌐 Portfolio: [Personal Portfolio](https://lakshman200309.github.io/Personal_Portfolio/)
-💬 Telegram: https://t.me/+919490200309
+📍 Location: Vijayawada, India <br>
+📧 Email: lpkumartumu@gmail.com <br>
+🔗 LinkedIn: [Tumu Lakshman Prasanna Kumar](https://www.linkedin.com/in/tumu-lakshman-prasanna-kumar-a37561270) <br>
+💻 GitHub: [lakshman200309](https://github.com/lakshman200309/lakshman200309) <br>
+🌐 Portfolio: [Personal Portfolio](https://lakshman200309.github.io/Personal_Portfolio/) <br>
+💬 Telegram: https://t.me/+919490200309 <br>
 
 
 ## 🌐 Socials:
