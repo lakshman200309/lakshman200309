@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫About Me:
 🎓 I'm currently pursuing a Master of Computer Applications (MCA) in Artificial Intelligence at Koneru Lakshmaiah Education Foundation (2023–2025).
 💡 Passionate about Software Development, Software Testing, Embedded Systems, and AI.
 💻 Skilled in Python, Java, C, SQL, HTML, CSS, Artificial Intelligence and Data Science.
