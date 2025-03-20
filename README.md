@@ -1,5 +1,17 @@
 # 💫 About Me:
-I'm currently studying
+🎓 I'm currently pursuing a Master of Computer Applications (MCA) in Artificial Intelligence at Koneru Lakshmaiah Education Foundation (2023–2025).
+💡 Passionate about Software Development, Software Testing, Embedded Systems, and AI.
+💻 Skilled in Python, Java, C, C++, SQL, HTML, CSS, and Data Science.
+🔍 Interested in Software Development, Automation, and AI-powered applications.
+🚀 Aspiring to contribute to cutting-edge technology and innovation.
+
+📫 How to reach me:
+
+📍 Location: Vijayawada, India
+📧 Email: lpkumartumu@gmail.com
+🔗 LinkedIn: Tumu Lakshman Prasanna Kumar
+💻 GitHub: lakshman200309
+🌐 Portfolio: Personal Portfolio
 
 
 ## 🌐 Socials:
