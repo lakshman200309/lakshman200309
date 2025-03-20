@@ -5,14 +5,14 @@
 🔍 Interested in Software Development, Automation, and AI-powered applications.
 🚀 Aspiring to contribute to cutting-edge technology and innovation.
 
-📫 <b><h2><u>How to reach me:</u></h2></b>
+<b><h2>📫<u>How to reach me:</u></h2></b>
 
 📍<b>Location:</b> Vijayawada, India <br>
 📧<b>Email:</b> lpkumartumu@gmail.com <br>
 🔗<b>LinkedIn:</b> [Tumu Lakshman Prasanna Kumar](https://www.linkedin.com/in/tumu-lakshman-prasanna-kumar-a37561270) <br>
 💻<b>GitHub:</b> [lakshman200309](https://github.com/lakshman200309/lakshman200309) <br>
 🌐<b>Portfolio:</b> [Personal Portfolio](https://lakshman200309.github.io/Personal_Portfolio/) <br>
-💬<b>Telegram:</b> https://t.me/+919490200309 <br>
+💬<b>Telegram:</b> [Connect with me](https://t.me/+919490200309) <br>
 
 
 ## 🌐 Socials:
