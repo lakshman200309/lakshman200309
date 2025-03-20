@@ -9,9 +9,10 @@
 
 📍 Location: Vijayawada, India
 📧 Email: lpkumartumu@gmail.com
-🔗 LinkedIn: Tumu Lakshman Prasanna Kumar
-💻 GitHub: lakshman200309
-🌐 Portfolio: Personal Portfolio
+🔗 LinkedIn: [Tumu Lakshman Prasanna Kumar](https://www.linkedin.com/in/tumu-lakshman-prasanna-kumar-a37561270)
+💻 GitHub: [lakshman200309](https://github.com/lakshman200309/lakshman200309)
+🌐 Portfolio: [Personal Portfolio](https://lakshman200309.github.io/Personal_Portfolio/)
+💬 Telegram: https://t.me/+919490200309
 
 
 ## 🌐 Socials:
